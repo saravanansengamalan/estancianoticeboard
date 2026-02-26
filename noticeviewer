@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="300">
+<title>Estancia Notice Board</title>
+<style>
+html,body{margin:0;height:100%;overflow:hidden;background:#fff}
+iframe{width:100%;height:100%;border:none}
+</style>
+</head>
+<body>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHc0WY_flII6hDu21n6FimAeugp-nPCm5-4JULvAWnE4kkjarVKncd7wiB_V23EqJb1g0b-rfqbCuE/pub?start=true&loop=true&delayms=3000&rm=minimal"></iframe>
+</body>
+</html>
